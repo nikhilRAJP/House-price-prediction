@@ -53,5 +53,5 @@ You can enter 8 features about a housing block (like median income, house age, l
     ```
 3.  Run the app from your terminal:
     ```bash
-    streamlit run app.py
+    python -m streamlit run app.py
     ```
