@@ -44,7 +44,7 @@ You can enter 8 features about a housing block (like median income, house age, l
 
 ---
 
-## 🚀 How to Run This Project:
+##  How to Run This Project:
 
 1.  Clone this repo.
 2.  Install the libraries:
